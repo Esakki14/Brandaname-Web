@@ -926,7 +926,7 @@ strong{
     .footer-card p{
         color: var(--p);
         margin: 8px 0;
-        /* font-size: 10px; */
+        font-size: 14px; 
     }
 }
 @media(max-width:772px){
